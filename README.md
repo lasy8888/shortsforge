@@ -1,5 +1,9 @@
 # shortsforge
 
+![tests](https://github.com/lasy8888/shortsforge/actions/workflows/tests.yml/badge.svg)
+![python](https://img.shields.io/badge/python-3.9%2B-blue)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 **One long clip in, one vertical short out.** Cut the dead air, reframe to 9:16, burn word-accurate captions, and draft a cover + caption kit — from a single command.
 
 ```bash
