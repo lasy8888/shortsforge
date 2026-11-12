@@ -30,7 +30,9 @@ asr = ["faster-whisper>=1.0", "jieba>=0.42"]
 shortsforge = "shortsforge.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/shortsforge/shortsforge"
+Homepage = "https://github.com/lasy8888/shortsforge"
+Source = "https://github.com/lasy8888/shortsforge"
+Issues = "https://github.com/lasy8888/shortsforge/issues"
 
 [tool.setuptools.packages.find]
 include = ["shortsforge*"]
