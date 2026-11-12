@@ -1,0 +1,15 @@
+{
+  "font": "Microsoft YaHei",
+  "font_size": 56,
+  "primary": "&H00FFFFFF",
+  "outline_colour": "&H00000000",
+  "outline": 3,
+  "shadow": 1,
+  "margin_v": 330,
+  "max_chars_per_line": 18,
+  "silence_min": 0.45,
+  "gap_merge": 0.35,
+  "bgm_volume": 0.22,
+  "crf": 21,
+  "preset": "veryfast"
+}
