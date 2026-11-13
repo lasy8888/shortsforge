@@ -13,7 +13,7 @@ shortsforge pack talk.mp4         # → out/cover_01..03.jpg + title candidates 
 
 No editor. No timeline. No system ffmpeg install — the binary ships with `pip install imageio-ffmpeg`, and on a clean machine that is the *only* hard dependency.
 
-<img src="docs/demo.jpg" width="320" alt="A 4:3 source reframed to 1080x1920 with burned-in captions">
+<img src="docs/demo.gif" width="720" alt="One command cuts a long clip into a 1080x1920 short with burned-in captions">
 
 [中文快速开始](#中文快速开始) · [How it works](#how-it-works) · [Write your own style](#write-your-own-style) · [Limitations](#limitations)
 
